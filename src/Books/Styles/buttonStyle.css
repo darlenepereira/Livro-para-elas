@@ -22,7 +22,7 @@
 } 
 
 
-@media (max-width:800px){
+@media (max-width:769px){
 	.button-style{
 		width: 10rem;
 		height: 3rem;
@@ -30,7 +30,7 @@
 	}
 }
 
-@media (max-width:375px){
+@media (max-width:475px){
 	.button-style{
 		width: 6rem;
 		height: 2rem;

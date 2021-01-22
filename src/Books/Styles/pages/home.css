@@ -137,7 +137,6 @@
 	#landing-page .content-wrapper {
 	height: 33rem;
 	background-position: center;	
-
 	}
 
 	#section-title {
@@ -145,6 +144,10 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+	}
+
+	.title{
+		padding-top: .2rem;
 	}
 
 	#friday {
@@ -162,7 +165,7 @@
 	}
 
 	.content-wrapper .section-link {
-		bottom: 30%;
+		bottom: 26%;
 		height: 2rem;
 		width: 20rem;
 	}

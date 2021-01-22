@@ -135,6 +135,9 @@ nav{
 }
 
 @media (max-width:769px){
+	.background{
+		height: 100%;
+	}
 
 	nav{
 		height: 4rem;
@@ -213,7 +216,7 @@ nav{
 	}
 
 	.text {
-		width: 16rem;	
+		width: 17rem;	
 	}
 
 	.projects{
