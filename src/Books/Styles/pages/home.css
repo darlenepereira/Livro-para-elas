@@ -59,7 +59,7 @@
 	font-family: Montserrat;
 	/* width: 35.6rem; */
 	font-weight: 400;
-	font-size: clamp(.8rem, 1vw, 1.2rem);
+	font-size: clamp(.8rem, 2vw, 1.1rem);
 	color: #ffffff;
 	border-radius: 2rem;
 }
