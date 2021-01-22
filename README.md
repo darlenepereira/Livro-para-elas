@@ -7,7 +7,7 @@
 </h3>
   
 ## Sobre 📝
-Desenvolvido em React, o Livro para as mulheres se sentirem em casa surgiu com a ideia de juntar livros escrito por escritoras negras e disponibilizados em pdf para leitura livre. O Objetivo e ampliar e incentivar a leitura a livros escrito por mulheres negras que por muito tempo eu não tive acesso, ou era algo pouco divulgado quando se falava em livros para ler.
+Desenvolvido em React, o Livro para as mulheres se sentirem em casa surgiu com a ideia de juntar livros escrito por escritoras negras e disponibilizados em pdf para leitura livre. O Objetivo é ampliar e incentivar a leitura a livros escrito por mulheres negras que por muito tempo eu não tive acesso, ou era algo pouco divulgado quando se falava em referências para leitura.
 
  ## 🚀 Tecnologias utilizadas
  
