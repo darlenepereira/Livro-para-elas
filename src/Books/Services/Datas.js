@@ -15,9 +15,10 @@ const book = [
     },
     {
         id: 3,
-        name: 'Quando me descobri Negra',
-        autor: 'Bianca Santana',
-        image: 'https://images-na.ssl-images-amazon.com/images/I/81vxUMO%2B2PL.jpg'
+        name: 'As alegrias da maternidade',
+        autor: 'Buchi Emecheta',
+        image: 'https://images-na.ssl-images-amazon.com/images/I/91a8Aib2AZL.jpg',
+        link:  'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Buchi+Emecheta/As+alegrias+da+maternidade+(127)/As+alegrias+da+maternidade+-+Buchi+Emecheta?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
 
     },
     {
@@ -82,6 +83,48 @@ const book = [
         autor: 'Michelle Obama',
         image: 'https://imagens.lelivros.love/2019/11/baixar-livro-minha-historia-michelle-obama-em-pdf-epub-mobi-ou-ler-online-370x556.jpg',
         link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Michelle+Obama/Minha+historia+(90)/Minha+historia+-+Michelle+Obama?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 13,
+        name: 'Kindred – Laços de Sangue',
+        autor: 'Octavia E. Butler',
+        image: 'https://imagens.elivros.love/Octavia-e-Butler/Baixar-Livro-Kindred-Lacos-de-Sangue-Octavia-e-Butler-Em-Epub-Pdf-Mobi-Ou-Ler-Online_large.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Octavia+E.+Butler/Kindred+-+Verbunden+(55)/Kindred+-+Verbunden+-+Octavia+E.+Butler?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 14,
+        name: "Olhos d'Água",
+        autor: 'Conceição Evaristo',
+        image: 'https://imagens.lelivros.love/2017/12/Baixar-Olhos-dgua-Conceicao-Evaristo-em-Pdf-ePub-e-Mobi-ou-ler-online.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Conceicao+Evaristo/Olhos+dagua/Olhos+dagua+-+Conceicao+Evaristo?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 15,
+        name: "Filhos de sangue e osso: O legado de Orïsha",
+        autor: 'Tomy Adeiemi',
+        image: 'https://imagens.lelivros.love/2020/04/baixar-livro-filhos-de-sangue-e-osso-o-legado-de-orisha-vol-01-tomi-adeyemi-em-pdf-epub-mobi-ou-ler-online.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Tomi+Adeyemi/Filhos+de+sangue+e+osso+(133)/Filhos+de+sangue+e+osso+-+Tomi+Adeyemi?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 16,
+        name: "O ódio que você semeia",
+        autor: 'Angie Thomas',
+        image: 'https://imagens.lelivros.love/2018/05/Baixar-O-odio-que-voce-semeia-Angie-Thomas-em-Pdf-ePub-e-Mobi-ou-ler-online-370x549.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Angie+Thomas/O+odio+que+voce+semeia/O+odio+que+voce+semeia+-+Angie+Thomas?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 17,
+        name: "Esse cabelo",
+        autor: 'Djaimilia Pereira de Almeida',
+        image: 'https://imagens.lelivros.love/2018/06/Baixar-Esse-Cabelo-Djaimilia-Pereira-de-Almeida-em-Pdf-ePub-e-Mobi-ou-ler-online.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Djaimilia+Pereira+de+Almeida/Esse+Cabelo/Esse+Cabelo+-+Djaimilia+Pereira+de+Almeida?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 18,
+        name: "O olho mais azul",
+        autor: 'Toni Morrison',
+        image: 'https://imagens.lelivros.love/2020/05/Baixar-Livro-O-Olho-Mais-Azul-Toni-Morrison-em-PDF-Epub-MOBI-ou-Ler-Online-370x556.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Toni+Morrison/O+Olho+Mais+Azul+(138)/O+Olho+Mais+Azul+-+Toni+Morrison?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
     },
 
 ]
