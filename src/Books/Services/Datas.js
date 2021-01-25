@@ -8,9 +8,10 @@ const book = [
     },
     {
         id: 2,
-        name: 'Becos da Memória',
-        autor: 'Conceição Evaristo ',
-        image: 'https://images-na.ssl-images-amazon.com/images/I/91e2SLCwEHL.jpg'
+        name: 'Quem tem medo de feminismo negro?',
+        autor: 'Djamila Ribeiro',
+        image: 'https://images-na.ssl-images-amazon.com/images/I/71+ltYY+D3L.jpg',
+        link: 'http://professor.pucgoias.edu.br/sitedocente/admin/arquivosUpload/4069/material/Quem%20Tem%20Medo%20do%20Feminismo%20Negro%20-%20Djamila%20Ribeiro.pdf'
     },
     {
         id: 3,
@@ -35,9 +36,10 @@ const book = [
     },
     {
         id: 6,
-        name: 'A mulher de pé descalços',
-        autor: 'Scholastique Mukasonga',
-        image: 'https://cdn.shopify.com/s/files/1/0102/4406/3294/products/Amulherdepesdescalcos.jpg?v=1595275373'
+        name: 'O perigo de uma história única',
+        autor: 'Chimamanda Adichie',
+        image: 'https://imagens.lelivros.love/2020/10/baixar-livro-o-perigo-de-uma-historia-unica-chimamanda-ngozi-adichie-em-pdf-epub-mobi-ou-ler-online-370x556.jpg',
+        link:'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Chimamanda+Ngozi+Adichie/O+Perigo+de+uma+Historia+Unica+(138)/O+Perigo+de+uma+Historia+Unica+-+Chimamanda+Ngozi+Adichie?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
     },
     {
         id: 7,
@@ -59,7 +61,29 @@ const book = [
         autor: 'Ana Maria Gonçalves',
         image: 'https://images-na.ssl-images-amazon.com/images/I/81cC72EgfvL.jpg',
         link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Ana+Maria+Goncalves/Um+Defeito+de+Cor+(989)/Um+Defeito+de+Cor+-+Ana+Maria+Goncalves?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
-    }
+    },
+    {
+        id: 10,
+        name: 'Pequeno manual Antirracista',
+        autor: 'Djamila Ribeiro',
+        image: 'https://imagens.lelivros.love/2020/08/Baixar-Livro-Pequeno-Manual-Antirracista-Djamila-Ribeiro-Em-Epub-Pdf-Mobi-Ou-Ler-Online_large.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Ribeiro,+Djamila/Pequeno+manual+antirracista+(343)/Pequeno+manual+antirracista+-+Ribeiro,+Djamila?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 11,
+        name: 'Sejamos Todos Feministas',
+        autor: 'Chimamanda Ngozi Adichie',
+        image: 'https://imagens.lelivros.love/2016/02/Baixar-Livro-Sejamos-Todos-Feministas-Chimamanda-Ngozi-Adichie-em-PDF-ePub-e-Mobi-ou-ler-online.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Chimamanda+Ngozi+Adichie/Sejamos+todos+feministas+(2614)/Sejamos+todos+feministas+-+Chimamanda+Ngozi+Adichie?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+    {
+        id: 12,
+        name: 'Minha História',
+        autor: 'Michelle Obama',
+        image: 'https://imagens.lelivros.love/2019/11/baixar-livro-minha-historia-michelle-obama-em-pdf-epub-mobi-ou-ler-online-370x556.jpg',
+        link:   'https://drive.google.com/viewerng/viewer?url=http://ler-agora.jegueajato.com/Michelle+Obama/Minha+historia+(90)/Minha+historia+-+Michelle+Obama?chave%3D1677cfea7cb1b4e721f78316a481fd9c&dsl=1&ext=.pdf'
+    },
+
 ]
 
 export default book
